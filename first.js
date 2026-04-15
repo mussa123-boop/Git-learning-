@@ -16,3 +16,6 @@ console.log("hi kaise ho")
 function greet() {
     return "Hello";
 }
+function greet() {
+    return "Hello from Feature";
+}
