@@ -8,4 +8,6 @@ function meet(a,b){
 console.log("hello world ")
 console.log("rajeev")
 
+console("hi kaise ho")
+
 
