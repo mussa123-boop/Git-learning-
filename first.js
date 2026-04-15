@@ -7,4 +7,7 @@ function meet(a,b){
 
 console.log(meet(2,4))
 
+console.log("mussa")
+console.log("hi kaise ho")
+
 
