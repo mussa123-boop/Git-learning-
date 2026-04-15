@@ -10,6 +10,9 @@ console.log(meet(2,4))
 console.log("mussa")
 console.log("hi kaise ho")
 
-console("hi kaise ho")
+console.log("hi kaise ho")
 
 
+function greet() {
+    return "Hello";
+}
