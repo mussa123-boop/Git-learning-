@@ -5,5 +5,6 @@ function meet(a,b){
     return a+b
 }
 
+console.log(meet(2,4))
 
 
