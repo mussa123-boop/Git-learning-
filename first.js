@@ -17,5 +17,5 @@ function greet() {
     return "Hello";
 }
 function greet() {
-    return "Hello from Master";
+    return "Hello from Feature";
 }
