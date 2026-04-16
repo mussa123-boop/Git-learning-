@@ -19,4 +19,3 @@ function greet() {
 function greet() {
     return "Hello from Feature";
 }
-console.log("hello")
